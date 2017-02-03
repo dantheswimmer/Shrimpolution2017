@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d9d737e7efe975f4b865d4c9f3a24a80
+timeCreated: 1486074294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm01_r
+    100002: arm01_r.001
+    100004: arm02_r
+    100006: arm02_r.001
+    100008: arm03_r
+    100010: arm03_r.001
+    100012: Armature
+    100014: back01
+    100016: back02
+    100018: back03
+    100020: clawBase_r
+    100022: clawBase_r.001
+    100024: clawLower01_r
+    100026: clawLower01_r.001
+    100028: clawLower02_r
+    100030: clawLower02_r.001
+    100032: clawLower02_r.001_end
+    100034: clawLower02_r_end
+    100036: clawUpper01_r
+    100038: clawUpper01_r.001
+    100040: clawUpper02_r
+    100042: clawUpper02_r.001
+    100044: clawUpper02_r.001_end
+    100046: clawUpper02_r_end
+    100048: Cube
+    100050: fin01
+    100052: fin02
+    100054: fin02_end
+    100056: head01
+    100058: head02
+    100060: lowerFins01
+    100062: lowerFins02
+    100064: lowerFins03
+    100066: lowerFins04
+    100068: lowerFins04_end
+    100070: lowerWhisker01_r
+    100072: lowerWhisker01_r.001
+    100074: lowerWhisker02_r
+    100076: lowerWhisker02_r.001
+    100078: lowerWhisker03_r
+    100080: lowerWhisker03_r.001
+    100082: lowerWhisker04_r
+    100084: lowerWhisker04_r.001
+    100086: lowerWhisker04_r.001_end
+    100088: lowerWhisker04_r_end
+    100090: root
+    100092: shoulder_r
+    100094: shoulder_r.001
+    100096: //RootNode
+    100098: upperWhisker01_r
+    100100: upperWhisker01_r.001
+    100102: upperWhisker02_r
+    100104: upperWhisker02_r.001
+    100106: upperWhisker03_r
+    100108: upperWhisker03_r.001
+    100110: upperWhisker04_r
+    100112: upperWhisker04_r.001
+    100114: upperWhisker04_r.001_end
+    100116: upperWhisker04_r_end
+    400000: arm01_r
+    400002: arm01_r.001
+    400004: arm02_r
+    400006: arm02_r.001
+    400008: arm03_r
+    400010: arm03_r.001
+    400012: Armature
+    400014: back01
+    400016: back02
+    400018: back03
+    400020: clawBase_r
+    400022: clawBase_r.001
+    400024: clawLower01_r
+    400026: clawLower01_r.001
+    400028: clawLower02_r
+    400030: clawLower02_r.001
+    400032: clawLower02_r.001_end
+    400034: clawLower02_r_end
+    400036: clawUpper01_r
+    400038: clawUpper01_r.001
+    400040: clawUpper02_r
+    400042: clawUpper02_r.001
+    400044: clawUpper02_r.001_end
+    400046: clawUpper02_r_end
+    400048: Cube
+    400050: fin01
+    400052: fin02
+    400054: fin02_end
+    400056: head01
+    400058: head02
+    400060: lowerFins01
+    400062: lowerFins02
+    400064: lowerFins03
+    400066: lowerFins04
+    400068: lowerFins04_end
+    400070: lowerWhisker01_r
+    400072: lowerWhisker01_r.001
+    400074: lowerWhisker02_r
+    400076: lowerWhisker02_r.001
+    400078: lowerWhisker03_r
+    400080: lowerWhisker03_r.001
+    400082: lowerWhisker04_r
+    400084: lowerWhisker04_r.001
+    400086: lowerWhisker04_r.001_end
+    400088: lowerWhisker04_r_end
+    400090: root
+    400092: shoulder_r
+    400094: shoulder_r.001
+    400096: //RootNode
+    400098: upperWhisker01_r
+    400100: upperWhisker01_r.001
+    400102: upperWhisker02_r
+    400104: upperWhisker02_r.001
+    400106: upperWhisker03_r
+    400108: upperWhisker03_r.001
+    400110: upperWhisker04_r
+    400112: upperWhisker04_r.001
+    400114: upperWhisker04_r.001_end
+    400116: upperWhisker04_r_end
+    4300000: Cube
+    7400000: Armature|swim
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|swim
+      takeName: Armature|swim
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.15189874
+        functionName: beginSwimPulse
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 4f8ab9e29da143345b4bdac7eb5a25da,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/back01
+        weight: 1
+      - path: Armature/back01/back02
+        weight: 1
+      - path: Armature/back01/back02/back03
+        weight: 1
+      - path: Armature/back01/back02/back03/fin01
+        weight: 1
+      - path: Armature/back01/back02/back03/fin01/fin02
+        weight: 1
+      - path: Armature/back01/back02/back03/fin01/fin02/fin02_end
+        weight: 1
+      - path: Armature/back01/lowerFins01
+        weight: 1
+      - path: Armature/back01/lowerFins01/lowerFins02
+        weight: 1
+      - path: Armature/back01/lowerFins01/lowerFins02/lowerFins03
+        weight: 1
+      - path: Armature/back01/lowerFins01/lowerFins02/lowerFins03/lowerFins04
+        weight: 1
+      - path: Armature/back01/lowerFins01/lowerFins02/lowerFins03/lowerFins04/lowerFins04_end
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/head01
+        weight: 1
+      - path: Armature/root/head01/head02
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r/lowerWhisker02_r
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r/lowerWhisker02_r/lowerWhisker03_r
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r/lowerWhisker02_r/lowerWhisker03_r/lowerWhisker04_r
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r/lowerWhisker02_r/lowerWhisker03_r/lowerWhisker04_r/lowerWhisker04_r_end
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r.001/lowerWhisker02_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r.001/lowerWhisker02_r.001/lowerWhisker03_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r.001/lowerWhisker02_r.001/lowerWhisker03_r.001/lowerWhisker04_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/lowerWhisker01_r.001/lowerWhisker02_r.001/lowerWhisker03_r.001/lowerWhisker04_r.001/lowerWhisker04_r.001_end
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r/upperWhisker02_r
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r/upperWhisker02_r/upperWhisker03_r
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r/upperWhisker02_r/upperWhisker03_r/upperWhisker04_r
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r/upperWhisker02_r/upperWhisker03_r/upperWhisker04_r/upperWhisker04_r_end
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r.001/upperWhisker02_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r.001/upperWhisker02_r.001/upperWhisker03_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r.001/upperWhisker02_r.001/upperWhisker03_r.001/upperWhisker04_r.001
+        weight: 1
+      - path: Armature/root/head01/head02/upperWhisker01_r.001/upperWhisker02_r.001/upperWhisker03_r.001/upperWhisker04_r.001/upperWhisker04_r.001_end
+        weight: 1
+      - path: Armature/root/shoulder_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawLower01_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawLower01_r/clawLower02_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawLower01_r/clawLower02_r/clawLower02_r_end
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawUpper01_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawUpper01_r/clawUpper02_r
+        weight: 1
+      - path: Armature/root/shoulder_r/arm01_r/arm02_r/arm03_r/clawBase_r/clawUpper01_r/clawUpper02_r/clawUpper02_r_end
+        weight: 1
+      - path: Armature/root/shoulder_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawLower01_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawLower01_r.001/clawLower02_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawLower01_r.001/clawLower02_r.001/clawLower02_r.001_end
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawUpper01_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawUpper01_r.001/clawUpper02_r.001
+        weight: 1
+      - path: Armature/root/shoulder_r.001/arm01_r.001/arm02_r.001/arm03_r.001/clawBase_r.001/clawUpper01_r.001/clawUpper02_r.001/clawUpper02_r.001_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
